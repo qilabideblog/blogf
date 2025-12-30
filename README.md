@@ -1,8 +1,8 @@
-# Hi, I'm qilabi 👋 
+
 
 <!--
 ---
-
+# Hi, I'm qilabi 👋 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Optimizing MySQL execution plans** and maintaining **OmniDB-V-1.0**.
@@ -17,9 +17,8 @@
 ---
 -->
 
-## ✍️ My Blog
 Explore my technical notes and database insights:
 
 ```bash
-git clone git@github.com:xinlongli-blog/blogf.git
+git clone git@github.com:qilabideblog/blogf.git
 cd blogf
