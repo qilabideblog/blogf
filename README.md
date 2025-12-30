@@ -1,6 +1,4 @@
-# Hi, I'm Li Xinlong 👋 
-
-**qilabideblog
+# Hi, I'm qilabi 👋 
 
 <!--
 ---
