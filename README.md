@@ -1,23 +1,27 @@
-### Hi there 👋
+# Hi, I'm Li Xinlong 👋 
 
-MySQL blog
+**qilabideblog
 
-## usage
-```bash
-git clone https://github.com/xinlongli-blog/blogf.git
-cd blog
-```
 <!--
-**xinlongli-blog/xinlongli-blog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **Optimizing MySQL execution plans** and maintaining **OmniDB-V-1.0**.
+- 🌱 I’m currently learning **PostgreSQL Internals** and **Advanced Python Automation**.
+- 👯 I’m looking to collaborate on **Open source database tools** and SQL visualization projects.
+- 🤔 I’m looking for help with **Distributed database architecture** scaling.
+- 💬 Ask me about **MySQL performance tuning, Linux troubleshooting, or Shell scripting**.
+- 📫 How to reach me: [Your Email/WeChat/Link]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I believe "The best database is a boring one" — no alerts, no drama.
+
+---
 -->
+
+## ✍️ My Blog
+Explore my technical notes and database insights:
+
+```bash
+git clone git@github.com:xinlongli-blog/blogf.git
+cd blogf
