@@ -3452,3 +3452,12 @@ git push -u origin master
 #username 主体更改
  git remote -v
  git remote set-url origin  [newname]
+ 
+ 
+ 
+1.复制.ibd文件以来，该表一定不能删除或截断，因为这样做会更改存储在表空间中的表ID。
+2.发出以下ALTER TABLE语句以删除当前.ibd文件：
+ALTER TABLE tbl_name DISCARD TABLESPACE;
+3.将备份.ibd文件复制到正确的数据库目录。
+4.发出以下ALTER TABLE语句，告诉InnoDB您将新 .ibd文件用于表：
+ALTER TABLE tbl_name IMPORT TABLESPACE;
